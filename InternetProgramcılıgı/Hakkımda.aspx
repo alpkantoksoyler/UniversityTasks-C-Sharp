@@ -1,0 +1,8 @@
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/MasterPage.Master" AutoEventWireup="true" CodeBehind="Hakkımda.aspx.cs" Inherits="InternetProgramcılıgı.WebForm2" %>
+<asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
+    <p>
+    <span style="color: rgb(51, 51, 51); font-family: &quot;Nunito Sans&quot;; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;">2000 yılında Edirne’de doğdum.5 yaşıma kadar Edirne’de kaldım ondan sonra ailemle beraber Kırklareli/Babaeski ilçesine taşındık.İlkokul ve Ortaokul hayatım Babaeski Fatih İlköğretim okulunda geçti.Liseyide Babaeski Anadolu Lisesinde okudum.Tam olarak lise zamanlarımda kodlama ile tanıştım ve zevk aldığımı fark edip bunun benim için doğru iş olacağını farkedip yazılımcı olmak istedim.Lise sonrası 1 yıllık mezun hayatım sonrası Adnan Menderes 
+    Üniversitesi Bilgisayar Programcılığını kazandım ve hala orada eğitim görüyorum.Aynı zamanda profesyonel olarak League of Legends oynuyorum.2019 Sezonu için Team AURORA’da bulunmuştum.Şu anda bir takımla sözleşmem bulunmamakta.</span></p>
+</asp:Content>
